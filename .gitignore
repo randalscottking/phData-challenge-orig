@@ -1,4 +1,4 @@
 model/*
 *.pyc
 PROJECT_SUMMARY.md
-.claude/
+.claude/.DS_Store
